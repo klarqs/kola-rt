@@ -17,8 +17,9 @@ Mobile Engineer 🦋 | Flutter & Dart ⚡️ Building DeFi & Web3 tooling for th
   <a href="http://twitter.com/kola_rt">
     <img src="https://img.shields.io/twitter/follow/kola_rt?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
+    <a href="http://linkedin.com/paul-kolawole">
+    <img src="https://img.shields.io/linkedin/follow/paul-kolawole?label=LinkedIn&logo=linkedin&style=for-the-badge" />
+  </a>
 </p>
 
 </br>
-
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=kola-rt&show_icons=true&theme=dark" /></p>
