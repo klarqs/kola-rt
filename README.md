@@ -20,6 +20,8 @@ Mobile Engineer 🦋 | Flutter & Dart ⚡️ Building DeFi & Web3 tooling for th
     <a href="http://linkedin.com">
     <img src="https://img.shields.io/linkedin/followers/paul-kolawole?label=followers&logo=linkedin&style=for-the-badge" />
   </a>
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/FollowCompany" data-id="1035" data-counter="bottom"></script>
 </p>
 
 </br>
