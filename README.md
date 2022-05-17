@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kolawole ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Mobile Engineer 🦋 | Flutter & Dart ⚡️ Building DeFi & Web3 tooling for the Flutter/Dart ecosystem. 
+Flutter & Dart ⚡️ Building for the Flutter/Dart ecosystem. 
 
 
 <hr>
