@@ -16,7 +16,7 @@ Flutter & Dart ⚡️ Building for the Flutter/Dart ecosystem.
 <!-- <br/> -->
 <a href="https://github.com/kola-rt/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kola-rt&bg_color=0D1117&color=BF6726&line=BF6726&point=CECECE&hide_border=true&hide_title=false&theme=darcula" /></a>
 
-<hr>
+<!-- <hr> -->
 
 <p align="center">
   <a href="https://github.com/kola-rt?tab=followers">
@@ -26,7 +26,3 @@ Flutter & Dart ⚡️ Building for the Flutter/Dart ecosystem.
     <img src="https://img.shields.io/twitter/follow/kola_rt?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
-
-</br>
-
-
