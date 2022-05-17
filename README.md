@@ -21,7 +21,7 @@ Flutter & Dart ⚡️ Building for the Flutter/Dart ecosystem.
 
 <br/>
 <!-- <br/> -->
-<a href="https://github.com/kola-rt/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kola-rt&bg_color=0D1117&color=AF632B&line=AF632B&point=E5E5E5&hide_border=true&hide_title=false&theme=darcula" /></a>
+<a href="https://github.com/kola-rt/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kola-rt&bg_color=0D1117&color=BF6726&line=BF6726&point=E5E5E5&hide_border=true&hide_title=true&theme=darcula" /></a>
 
 <br/>
 
