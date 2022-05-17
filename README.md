@@ -20,7 +20,7 @@ Flutter & Dart ⚡️ Building for the Flutter/Dart ecosystem.
 </p>
 
 <br/>
-<p style="background-color:#AF632B"; align="center">Activity Graph</p>
+<p style="color:#AF632B"; align="center">Activity Graph</p>
 <!-- <br/> -->
 <a href="https://github.com/kola-rt/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kola-rt&bg_color=0D1117&color=AF632B&line=AF632B&point=E5E5E5&hide_border=true&hide_title=true&theme=darcula" /></a>
 
