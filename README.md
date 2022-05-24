@@ -12,7 +12,7 @@ Flutter & Dart ⚡️ Building for the Flutter/Dart ecosystem.
 
 </p>
 
-<hr>
+<!-- <hr> -->
 
 <!-- <br/> -->
 
