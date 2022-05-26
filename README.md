@@ -12,11 +12,11 @@ Flutter & Dart ⚡️ Building for the Flutter/Dart ecosystem.
 
 </p>
 
-<!-- <hr> -->
+<hr>
 
-<!-- <br/> -->
+<br/>
 
-<!-- <a href="https://github.com/kola-rt/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kola-rt&bg_color=0D1117&color=C57233&line=BF6726&point=CECECE&hide_border=true&hide_title=true&theme=darcula" /></a> -->
+<a href="https://github.com/kola-rt/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kola-rt&bg_color=0D1117&color=C57233&line=BF6726&point=CECECE&hide_border=true&hide_title=true&theme=darcula" /></a>
 
 <!-- <hr> -->
 
